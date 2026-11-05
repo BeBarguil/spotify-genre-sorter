@@ -1,3 +1,7 @@
+   <p align="center">
+     <img src="cover.svg" alt="Spotify Genre Sorter" width="100%">
+   </p>
+
 # Spotify Genre Sorter
 
 A command-line tool that sorts your Spotify **Liked Songs** by genre and, optionally, creates one private playlist per genre.
