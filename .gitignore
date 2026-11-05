@@ -1,0 +1,7 @@
+.env
+.spotify_token
+genre_cache.json
+liked_songs.json
+songs_by_genre.csv
+.venv/
+__pycache__/
